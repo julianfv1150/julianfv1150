@@ -1,10 +1,12 @@
-<h1 align="center">Hola 👋, soy Julián</h1>
-<h3 align="center">y soy desarrollador</h3>
 
+
+## Hola 👋, soy Julián y soy desarrollador
 Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que aparece a diario y te pone a buscar soluciones para distintos problemas. Mi deseo mas grande es poder hacerlo ahora en el mundo del desarrollo.
+
 
 ## Un poco sobre mí
 Empecé en la informática hace mas o menos 10 años como una salida laboral mientras decidia que quería ser, y me di cuenta que esto era lo que me gustaba.
+
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
@@ -78,9 +80,10 @@ Empecé en la informática hace mas o menos 10 años como una salida laboral mie
 
 - Aprender Java con Spring
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianfv1150" alt="julianfv1150" /></a> </p>
 
 <!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianfv1150" alt="julianfv1150" /></a> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julianfv1150&show_icons=true&locale=en" alt="julianfv1150" /></p>
 -->
 <!--
