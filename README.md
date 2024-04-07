@@ -3,12 +3,10 @@
 Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que aparece a diario y te pone a buscar soluciones para distintos problemas. Mi deseo mas grande es poder hacerlo ahora en el mundo del desarrollo.
 
 
-<br />
 ## Un poco sobre mí
 Empecé en la informática hace mas o menos 10 años como una salida laboral mientras decidia que quería ser, y me di cuenta que esto era lo que me gustaba.
 
 
-<br />
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
     <br />
