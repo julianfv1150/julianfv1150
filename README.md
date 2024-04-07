@@ -1,6 +1,5 @@
 
-<br />  
-## Hola 👋, soy Julián y soy desarrollador
+## Hola 👋, soy Julián y soy desarrollador  
 Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que aparece a diario y te pone a buscar soluciones para distintos problemas. Mi deseo mas grande es poder hacerlo ahora en el mundo del desarrollo.
 
 
