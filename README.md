@@ -3,16 +3,18 @@
 Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que aparece a diario y te pone a buscar soluciones para distintos problemas. Mi deseo mas grande es poder hacerlo ahora en el mundo del desarrollo.
   
   
-## Un poco sobre mí  
+# Un poco sobre mí  
 Empecé en la informática hace unos 10 años como una salida laboral mientras decidia que quería ser, y me di cuenta que esto era lo que me gustaba.
   
   
-## 🌱 En estos momentos estoy aprendiendo TypeScript  
+# 🌱 En estos momentos estoy aprendiendo..  
+- TypeScript   
 
-## 🔭 Estoy buscando trabajar donde pueda mejorar y poner en práctica mis conocimientos. Si sabes de algo no dudes en contactarme 😉  
+# 🔭 Mi trabajo ideal  
+Un lugar donde pueda mejorar y poner en práctica mis conocimientos y habilidades. Si sabes de alguno no dudes en contactarme, mi LinkedIn esta en el perfil😉  
   
   
-## Hoja de ruta
+# Hoja de ruta
 
 - Mejorar mi nivel de Inglés al punto de poder comunicarme fluidamente
 
