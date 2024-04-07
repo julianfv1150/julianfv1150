@@ -1,15 +1,19 @@
 
-
+<br />
 ## Hola 👋, soy Julián y soy desarrollador
 Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que aparece a diario y te pone a buscar soluciones para distintos problemas. Mi deseo mas grande es poder hacerlo ahora en el mundo del desarrollo.
 
 
+<br />
 ## Un poco sobre mí
 Empecé en la informática hace mas o menos 10 años como una salida laboral mientras decidia que quería ser, y me di cuenta que esto era lo que me gustaba.
 
 
+<br />
 <h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> 
+<p align="left">
+    <br />
+    <blockquote>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.chartjs.org/media/logo-title.svg" 
         alt="chartjs" width="40" height="40"/> </a> 
@@ -70,6 +74,7 @@ Empecé en la informática hace mas o menos 10 años como una salida laboral mie
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" 
         alt="zapier" width="40" height="40"/> </a>
+    </blockquote>
 </p>
 
 ## Hoja de ruta
