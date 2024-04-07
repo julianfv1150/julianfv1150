@@ -1,12 +1,26 @@
-
+  
 ## Hola 👋, soy Julián y soy desarrollador  
 Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que aparece a diario y te pone a buscar soluciones para distintos problemas. Mi deseo mas grande es poder hacerlo ahora en el mundo del desarrollo.
-
-
+  
+  
 ## Un poco sobre mí  
-Empecé en la informática hace mas o menos 10 años como una salida laboral mientras decidia que quería ser, y me di cuenta que esto era lo que me gustaba.
+Empecé en la informática hace unos 10 años como una salida laboral mientras decidia que quería ser, y me di cuenta que esto era lo que me gustaba.
   
   
+## 🌱 En estos momentos estoy aprendiendo TypeScript  
+
+## 🔭 Estoy buscando trabajar donde pueda mejorar y poner en práctica mis conocimientos. Si sabes de algo no dudes en contactarme 😉  
+  
+  
+## Hoja de ruta
+
+- Mejorar mi nivel de Inglés al punto de poder comunicarme fluidamente
+
+- Aprender patrones de diseño para mejorar la calidad de mi código
+
+- Aprender Java con Spring  
+
+    
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
     <br />
@@ -73,15 +87,6 @@ Empecé en la informática hace mas o menos 10 años como una salida laboral mie
         alt="zapier" width="40" height="40"/> </a>
     </blockquote>
 </p>
-
-## Hoja de ruta
-
-- Mejorar mi nivel de Inglés al punto de poder comunicarme fluidamente
-
-- Aprender patrones de diseño para mejorar la calidad de mi código
-
-- Aprender Java con Spring
-
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianfv1150" alt="julianfv1150" /></a> </p>
