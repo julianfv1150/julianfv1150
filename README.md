@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Julián</h1>
 <h3 align="center">y soy desarrollador</h3>
 
-# Hola! Soy Julián y soy desarrollador
-
 Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que aparece a diario y te pone a buscar soluciones para distintos problemas. Mi deseo mas grande es poder hacerlo ahora en el mundo del desarrollo.
 
 ## Un poco sobre mí
