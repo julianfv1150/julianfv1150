@@ -4,7 +4,13 @@ Lo que más disfruto de mi paso por IT es  esa sensación de nuevo desafío que 
   
   
 ### Un poco sobre mí  
-Empecé en la informática hace unos 10 años como una salida laboral mientras decidia que quería ser, y me di cuenta que esto era lo que me gustaba.
+¡Hola! Soy Julian Vega, un apasionado desarrollador full stack con 31 años de edad. Recientemente he completado mi formación en SoyHenry, especializándome en tecnologías como JavaScript, PostgreSQL, React, HTML, CSS y Sequelize.
+
+Mi misión es ofrecer soluciones innovadoras y eficientes a través del desarrollo de software. Me entusiasma la idea de contribuir al avance tecnológico y la integración continua de la sociedad con el mundo digital.
+
+Estoy emocionado por las oportunidades que el futuro tiene reservadas y espero poder colaborar en proyectos que impulsen el cambio y mejoren la experiencia humana en el ámbito tecnológico.
+
+¡Conéctate conmigo y exploremos cómo podemos trabajar juntos para alcanzar nuestros objetivos!
   
   
 ### 🌱 En estos momentos estoy aprendiendo..  
